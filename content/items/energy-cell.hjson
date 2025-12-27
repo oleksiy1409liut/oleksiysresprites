@@ -5,7 +5,7 @@ description: heavily charged cell with a lot of energy inside of it, must be dis
 cost: 3.0
 color: ffffff
 research: fusion-cell
-explosiveness: 0
+explosiveness: 1
 flammability: 0
 radioactivity: 2
 charge: 100
