@@ -17,7 +17,7 @@ research: {
 craftTime: 240
 craftEffect: reactorsmoke
 outputItems: [
-carbon-weaver/2
+carbon-fiber/2
 ]
 
 consumes: {
