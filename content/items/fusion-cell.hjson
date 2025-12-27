@@ -7,7 +7,7 @@ color: ffffff
 research: copper
 explosiveness: 5
 flammability: 10
-radioactivity: 100
+radioactivity: 1
 charge: 1
 hardness: 2
 }
