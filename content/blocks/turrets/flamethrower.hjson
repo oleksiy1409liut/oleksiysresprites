@@ -1,4 +1,4 @@
-type: ItemTurret
+type: LiquidTurret
 name: flamethrower
 description: Fires liqued fuel at enemies that burns them to smithereens but can damage your own buildings too.
 size: 3
