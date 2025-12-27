@@ -1,0 +1,13 @@
+{
+type: material
+name: energy cell
+description: heavily charged cell with a lot of energy inside of it, must be discharged for power and the cell to be back, can be transported everywhere
+cost: 3.0
+color: ffffff
+research: fusion-cell
+explosiveness: 0
+flammability: 0
+radioactivity: 2
+charge: 100
+hardness: 2
+}
