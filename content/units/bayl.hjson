@@ -25,7 +25,7 @@
       "x": 0,
       "name": "bayl-weapon",
       "y": -1,
-      "reload": 28,
+      "reload": 20,
       "mirror": false,
       "rotate": true,
       "shoot": {
