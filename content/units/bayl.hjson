@@ -23,7 +23,7 @@
   "weapons": [
     {
       "x": 0,
-      "name": "baly-weapon",
+      "name": "bayl-weapon",
       "y": -1,
       "reload": 28,
       "mirror": false,
@@ -44,5 +44,5 @@
       }
     }
   ],
-  "research": "mod-gate-legs"
+  "research": "copper"
 }
