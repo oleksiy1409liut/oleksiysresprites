@@ -25,6 +25,7 @@ oil/1.5
 items: [
 thorium/2
 pyratite/1
+empty-cell/1
 ]
 }
 
