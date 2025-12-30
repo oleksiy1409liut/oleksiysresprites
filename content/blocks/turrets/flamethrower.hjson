@@ -1,14 +1,14 @@
-type: LiquidTurret
+type: ItemTurret
 name: flamethrower
-description: Fires liqued fuel at enemies that burns them to smithereens but can damage your own buildings too.
+description: Fires solid fuel at enemies that burns them to smithereens.
 size: 3
 reload: 1
-range: 250
+range: 275
 recoil: 0
 category: turret
 shootSound: flame
 outlineColor: 42413e
-research: liquid-fuel
+research: solid-fuel
 researchCostMultiplier: 2
 requirements: [
   carbon-fiber/50
@@ -22,8 +22,8 @@ requirements: [
 targetGround: true
 targetAir: true
 ammoTypes: {
-  liquid-fuel: {
-    damage: 20
+  solid-fuel: {
+    damage: 25
 	pierce: true
 	pierceBuilding: true
     status: melting
