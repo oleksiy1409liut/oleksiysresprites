@@ -28,17 +28,17 @@ ammoTypes: {
 	pierceBuilding: true
     status: melting
 	makeFire: true
-    speed: 5
-	ammoMultiplier: 10
-	lifetime: 300
+    speed: 4
+	ammoMultiplier: 20
+	lifetime: 600
     despawnEffect: none
     width: 0.01
     height: 0.01
     smokeEffect: {
       type: ParticleEffect
       particles: 11
-      length: 140
-      lifetime: 34
+      length: 280
+      lifetime: 340
       interp: circleOut
       cone: 3
       colorFrom: ffdd55
