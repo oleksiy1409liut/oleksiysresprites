@@ -1,11 +1,11 @@
 name: "oleksiyresprites"
 description: 
 ''' 
-random additional stuff in the game, beta versions only
+random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS
 '''
-author: "minos prime ultrakill (AKA auvathia teams leader)"
+author: "oleskiy"
 minGameVersion: 154
-version: "unfinished"
+version: " kinda unfinished"
 displayName: "oleksiy's stuff"
-subtitle: "ga"
+subtitle: "roc"
 dependencies: []
