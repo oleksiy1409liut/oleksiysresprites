@@ -12,7 +12,7 @@ requirements: [
   silicon/75
   graphite/80
 ]
-powerProduction: 20
+powerProduction: 150
 outputItem: empty-cell/1
 consumes: {
   items: [
