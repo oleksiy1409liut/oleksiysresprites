@@ -21,7 +21,7 @@ craftEffect: reactorsmoke
 outputItem: energy-cell/10
 
 consumes: {
-power: 250
+power: 200
 liquids: [
 cryofluid/2.1
 ]
