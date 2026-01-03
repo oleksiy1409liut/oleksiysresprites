@@ -2,7 +2,7 @@
 name: fusion reactor
 description: big structure capable of using fusion reaction to transform fusion cells into full energy cells, needs cryofluid as coolant otherwise it wont work due to circuits preventing it from overheating.
 type: GenericCrafter
-health: 3000
+health: 3500
 size: 5
 category: power
 research: "impact-reactor"
@@ -16,14 +16,14 @@ researchCost: [
     lead/5000
     
   ]
-craftTime: 640
+craftTime: 500
 craftEffect: reactorsmoke
 outputItem: energy-cell/10
 
 consumes: {
 power: 250
 liquids: [
-cryofluid/4.5
+cryofluid/2.1
 ]
 items: [
 fusion-cell/10
@@ -39,5 +39,6 @@ graphite/800
 thorium/750
 surge-alloy/250
 phase-fabric/500
+galvanized-square-steel/200
 ]
 }
